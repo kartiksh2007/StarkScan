@@ -1,0 +1,18 @@
+# 🛡️ StarkScan AI v5.0
+### *Next-Gen AI-Driven Reconnaissance System*
+
+**StarkScan** ek advance Python-based tool hai jo traditional Nmap scanning ko AI (Artificial Intelligence) ke saath combine karta hai. Ye tool sirf scan nahi karta, balki aapke mission goal ke hisaab se best attack vectors aur scanning flags suggest karta hai.
+
+---
+
+## 🚀 Key Features
+* **🧠 Trinity-AI Integration**: Arcee-AI (Trinity-Large) engine ka use karke optimal Nmap flags generate karta hai.
+* **⏱️ Real-time Streaming**: Scanning ka live output terminal par dikhata hai, bina kisi delay ke.
+* **⚡ Speed Optimized**: Pre-built timing templates (T4/T5) fast execution ke liye.
+* **💎 Luxury CLI**: Dark-themed, cinematic interface jo "Stark Industries" vibes deta hai.
+
+## 🛠️ Technical Stack
+* **Language**: Python 3.x
+* **Core Engine**: Nmap (Network Mapper)
+* **AI Model**: Trinity-Large (via OpenRouter API)
+* **UI Framework**: Rich Library (for advanced terminal formatting)
